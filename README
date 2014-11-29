@@ -1,0 +1,5 @@
+OST-only version of How To Train Your Dragon
+
+Relies on the script from git://github.com/Rosuav/FrozenOST for
+most of the grunt-work; like that project, this will create a large
+number of intermediate gitignored files.
