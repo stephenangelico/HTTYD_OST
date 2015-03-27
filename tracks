@@ -1,5 +1,5 @@
-MovieSource: /media/sdb1/Videos/How To Train Your Dragon.avi
-OST_MP3: /media/sdb1/Music/HTTYD
+MovieSource: /mnt/sda2/Videos/How To Train Your Dragon.avi
+OST_MP3: /mnt/sda2/Music/HTTYD
 OutputFile: HTTYD with OST.mkv
 
 001 0:0:1
