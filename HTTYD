@@ -5,9 +5,9 @@ IntermediateDir: /mnt/nvme/HTTYD_OST_tmp
 WordsFile: /home/stephen/Videos/HTTYD/How To Train Your Dragon.srt
 OutputFile: HTTYD with OST.mkv
 
-01 0:0:1.5 [L59.5]
+01 0:0:1.569 [L60,T1.001]
 ; Might have to slow down, or more precisely find the beginning
-01 0:01:02.75 [S59.75]
+01 0:01:03.125 [S60,T1.001]
 ; Gap around 0:01:03, ~2 sec
 ; Sync point 0:01:13 Scene change and chord after "We have... dragons"
 02 0:4:14
